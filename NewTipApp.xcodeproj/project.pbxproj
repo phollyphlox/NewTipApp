@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		70887B1020925CDD00780B92 /* zeroPercent.png in Resources */ = {isa = PBXBuildFile; fileRef = 70887B0F20925CDD00780B92 /* zeroPercent.png */; };
+		70887B1220925CE300780B92 /* HundredPercent.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 70887B1120925CE300780B92 /* HundredPercent.jpg */; };
+		70887B1420925E5000780B92 /* ZeroPercent2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 70887B1320925E5000780B92 /* ZeroPercent2.jpg */; };
+		70887B16209379E800780B92 /* tipYourServer.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 70887B15209379E700780B92 /* tipYourServer.jpg */; };
 		70997BDB208E780200FF6ED9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70997BDA208E780200FF6ED9 /* AppDelegate.swift */; };
 		70997BDD208E780200FF6ED9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70997BDC208E780200FF6ED9 /* ViewController.swift */; };
 		70997BE0208E780200FF6ED9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 70997BDE208E780200FF6ED9 /* Main.storyboard */; };
@@ -15,6 +19,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		70887B0F20925CDD00780B92 /* zeroPercent.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = zeroPercent.png; sourceTree = "<group>"; };
+		70887B1120925CE300780B92 /* HundredPercent.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = HundredPercent.jpg; sourceTree = "<group>"; };
+		70887B1320925E5000780B92 /* ZeroPercent2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ZeroPercent2.jpg; sourceTree = "<group>"; };
+		70887B15209379E700780B92 /* tipYourServer.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tipYourServer.jpg; sourceTree = "<group>"; };
 		70997BD7208E780200FF6ED9 /* NewTipApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NewTipApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		70997BDA208E780200FF6ED9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		70997BDC208E780200FF6ED9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,6 +68,10 @@
 				70997BE1208E780300FF6ED9 /* Assets.xcassets */,
 				70997BE3208E780300FF6ED9 /* LaunchScreen.storyboard */,
 				70997BE6208E780300FF6ED9 /* Info.plist */,
+				70887B0F20925CDD00780B92 /* zeroPercent.png */,
+				70887B1320925E5000780B92 /* ZeroPercent2.jpg */,
+				70887B1120925CE300780B92 /* HundredPercent.jpg */,
+				70887B15209379E700780B92 /* tipYourServer.jpg */,
 			);
 			path = NewTipApp;
 			sourceTree = "<group>";
@@ -124,7 +136,11 @@
 			files = (
 				70997BE5208E780300FF6ED9 /* LaunchScreen.storyboard in Resources */,
 				70997BE2208E780300FF6ED9 /* Assets.xcassets in Resources */,
+				70887B1420925E5000780B92 /* ZeroPercent2.jpg in Resources */,
 				70997BE0208E780200FF6ED9 /* Main.storyboard in Resources */,
+				70887B1020925CDD00780B92 /* zeroPercent.png in Resources */,
+				70887B16209379E800780B92 /* tipYourServer.jpg in Resources */,
+				70887B1220925CE300780B92 /* HundredPercent.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
